@@ -9,5 +9,7 @@
     "items": [
       { "text": "Adobe-pr插件.md", "link": "/开发总结/Adobe-pr插件.md" }
     ]
-  }
+  },
+  { "text": "算法", "items": [] },
+  { "text": "计算机基础", "items": [] }
 ]

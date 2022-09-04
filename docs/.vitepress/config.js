@@ -5,13 +5,21 @@ module.exports = {
         siteTitle: "怀谷",
         // logo: "/logo.png",
         nav: [{
-                text: "Guide",
+                text: "Vue源码分析",
                 link: "/Vue源码分析/"
             },
             {
                 text: "开发总结",
                 link: "/开发总结/"
             },
+            {
+                text:"计算机基础",
+                link:"/计算机基础/"
+            },
+            {
+                text:"算法",
+                link:"/算法/"
+            }
         ],
         lastUpdated: "最近更新时间",
         socialLinks: [{
