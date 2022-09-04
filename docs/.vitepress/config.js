@@ -9,8 +9,8 @@ module.exports = {
                 link: "/Vue源码分析/"
             },
             {
-                text: "GuideTest",
-                link: "/guide/test"
+                text: "开发总结",
+                link: "/开发总结/"
             },
         ],
         lastUpdated: "最近更新时间",

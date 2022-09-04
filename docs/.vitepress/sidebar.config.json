@@ -3,5 +3,11 @@
   {
     "text": "Vue源码分析",
     "items": [{ "text": "index.md", "link": "/Vue源码分析/index.md" }]
+  },
+  {
+    "text": "开发总结",
+    "items": [
+      { "text": "Adobe-pr插件.md", "link": "/开发总结/Adobe-pr插件.md" }
+    ]
   }
 ]
