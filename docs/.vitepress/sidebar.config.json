@@ -1,1 +1,7 @@
-[{"text":"React","items":[]},{"text":"Vue源码分析","items":[{"text":"index.md","link":"/Vue源码分析/index.md"}]}]
+[
+  { "text": "React", "items": [] },
+  {
+    "text": "Vue源码分析",
+    "items": [{ "text": "index.md", "link": "/Vue源码分析/index.md" }]
+  }
+]

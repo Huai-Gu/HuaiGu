@@ -12,7 +12,7 @@ hero:
       link: /articles/组件库环境搭建
     - theme: alt
       text: View on Gitee
-      link: https://gitee.com/geeksdidi
+      link: https://gitee.com/cn-zyh12/huai-gu
 features:
   - icon: 🖖
     title: Vue/React/Angular

@@ -16,7 +16,7 @@ module.exports = {
         lastUpdated: "最近更新时间",
         socialLinks: [{
             icon: "github",
-            link: "https://gitee.com/geeksdidi"
+            link: "https://gitee.com/cn-zyh12/huai-gu"
         }, ],
         sidebar: sidebarConfig
     },
