@@ -6,7 +6,7 @@ module.exports = {
         // logo: "/logo.png",
         nav: [{
                 text: "Guide",
-                link: "/guide/"
+                link: "/Vue源码分析/"
             },
             {
                 text: "GuideTest",

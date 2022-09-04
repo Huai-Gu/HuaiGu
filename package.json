@@ -4,7 +4,7 @@
     "dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs",
-    "auto": "node autoSisderbar.js"
+    "auto": "node autoSidebar.js"
   },
   "version": "1.0.0",
   "main": "index.js",

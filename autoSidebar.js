@@ -63,16 +63,7 @@ function gen_sidebar_config(dir_path, ref, parent_ref, parent_router_path) {
 gen_sidebar_config(docs_path, sidebar)
 
 const sidebar_json = JSON.stringify(sidebar)
-//生成注释文件
-fs.writeFile('./docs/.vitepress/sidebar.config.json', `
-/*
-* 脚本自动生成文件
-* 请勿擅自修改
-* 修改请联系 2694235519@qq.com
-* @Tomao ${dayJs(new Date()).format("YYYY-MM-DD HH-mm-ss")}
-*/
-`, () => {})
-fs.appendFile('./docs/.vitepress/sidebar.config.json', sidebar_json, (err) => {
+fs.writeFile('./docs/.vitepress/sidebar.config.json', sidebar_json, (err) => {
     if (err) {
         console.log('💣 ERROR:: node fs.writeFile', err)
         throw err
