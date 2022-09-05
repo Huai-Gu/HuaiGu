@@ -5,8 +5,8 @@ module.exports = {
         siteTitle: "怀谷",
         // logo: "/logo.png",
         nav: [{
-                text: "Vue源码分析",
-                link: "/Vue源码分析/"
+                text: "Vue",
+                link: "/Vue/"
             },
             {
                 text: "开发总结",
