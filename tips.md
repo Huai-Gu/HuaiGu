@@ -1,4 +1,4 @@
-# 运行后请执行 npm run auto执行脚本文件
+# 新增文件或文件夹请执行 npm run auto配置sideBar
 
 
 

@@ -5,11 +5,11 @@ hero:
   text: 敦兮其若朴 旷兮其若谷
   image:
     src: /vue.png
-    alt: da
+    alt: 图片这么不见了？？？？？？？？？？？？
   actions:
     - theme: brand
       text: 快速开始
-      link: /Vue/
+      link: /Vue/Basic-Vue/组件通信.md
     - theme: alt
       text: View on Gitee
       link: https://gitee.com/cn-zyh12/huai-gu
