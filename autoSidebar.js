@@ -32,8 +32,6 @@ function gen_sidebar_config(dir_path, ref, parent_ref, parent_router_path) {
                         continue
                     }
                     //去除.md的后缀
-                    console.log(file_or_dir_name.slice(0,file_or_dir_name.length-3))
-                    // file_or_dir_name=file_or_dir_name.slice(0,file_or_dir_name.length-3)
                     const file = {
                         text: file_or_dir_name.slice(0,file_or_dir_name.length-3),
                         link: current_router_path
