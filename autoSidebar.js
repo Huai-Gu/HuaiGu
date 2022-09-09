@@ -48,6 +48,7 @@ function gen_sidebar_config(dir_path, ref, parent_ref, parent_router_path) {
                     const current_router_path = parent_router_path ? `${parent_router_path}${file_or_dir_name}/` : `/${file_or_dir_name}/`
                     // 创建分组
                     const group = {
+                        collapsible:true,
                         text: file_or_dir_name,
                         items: []
                     }
