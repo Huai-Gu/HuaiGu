@@ -6,7 +6,7 @@ module.exports = {
         // logo: "/logo.png",
         nav: [{
                 text: "Vue",
-                link: "/Vue/index"
+                link: "/Vue/组件通信/Api-attrs"
             },
             {
                 text: "开发总结",
