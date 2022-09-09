@@ -1,7 +1,8 @@
 const sidebarConfig = require('./sidebar.config.json')
 
 module.exports = {
-    description: 'Just playing around.',
+    title:'怀谷',
+    description: 'vue react leetcode angular',
     // base: '/dist/',
     themeConfig: {
         siteTitle: "怀谷",
