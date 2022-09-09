@@ -2,8 +2,8 @@
   "name": "huai-gu",
   "scripts": {
     "dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs",
     "auto": "node autoSidebar.js"
   },
   "version": "1.0.0",

@@ -6,7 +6,7 @@ module.exports = {
         // logo: "/logo.png",
         nav: [{
                 text: "Vue",
-                link: "/Vue/Basic-Vue/组件通信/$parent&$children.md"
+                link: "/Vue/index"
             },
             {
                 text: "开发总结",
