@@ -14,7 +14,7 @@ module.exports = {
             },
             {
                 text: "开发总结",
-                link: "/开发总结/"
+                link: "/开发总结/Adobe-pr插件"
             },
             {
                 text: "计算机基础",
