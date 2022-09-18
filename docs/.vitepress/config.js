@@ -22,7 +22,7 @@ module.exports = {
             },
             {
                 text: "算法",
-                link: "/算法/"
+                link: "/算法/二叉树/层序遍历"
             }
         ],
         lastUpdated: "最近更新时间",
