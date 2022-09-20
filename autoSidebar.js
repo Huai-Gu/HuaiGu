@@ -42,12 +42,13 @@ function gen_sidebar_config(dir_path, ref, parent_ref, parent_router_path) {
                 // 文件夹
                 if (current_stat.isDirectory()) {
                     //忽略public
-                    if (file_or_dir_name === "public") {
+                    if (file_or_dir_name === "public"||file_or_dir_name === "node_modules") {
                         continue
                     }
                     const current_router_path = parent_router_path ? `${parent_router_path}${file_or_dir_name}/` : `/${file_or_dir_name}/`
                     // 创建分组
                     const group = {
+                        collapsible:true,
                         text: file_or_dir_name,
                         items: []
                     }

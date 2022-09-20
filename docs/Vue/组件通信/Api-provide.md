@@ -5,7 +5,7 @@
 
 像这种情况，可以使用 provide 和 inject 解决这种问题，不论组件嵌套多深，父组件都可以为所有子组件或孙组件提供数据，父组件使用 provide 提供数据，子组件或孙组件 inject 注入数据。
 
-<h2 style="color:red">注意：provide 和 inject 绑定并不是可响应的。这是刻意为之的。然而，如果你传入了一个可监听的对象，那么其对象的 property 还是可响应的。</h2>
+<h2 style="color:green">注意：provide 和 inject 绑定并不是可响应的。这是刻意为之的。然而，如果你传入了一个可监听的对象，那么其对象的 property 还是可响应的。</h2>
 
 ## 基本知识
 provide ：一个对象或返回一个对象的函数

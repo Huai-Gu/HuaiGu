@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /Vue/Basic-Vue/组件通信/$parent&$children.md
+      link: /Vue/组件通信/Api-attrs
     - theme: alt
       text: View on Gitee
       link: https://gitee.com/cn-zyh12/huai-gu
