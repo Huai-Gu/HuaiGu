@@ -11,7 +11,7 @@ hero:
       text: 快速开始
       link: /Vue/组件通信/Api-attrs
     - theme: alt
-      text: View on Gitee
+      text: View on Github
       link: https://github.com/Tomaolala/HuaiGu
 features:
   - icon: 🖖
