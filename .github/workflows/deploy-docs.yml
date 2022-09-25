@@ -37,9 +37,6 @@ jobs:
       - name: Install dependencies
         run: yarn
 
-      - name: Generate Category
-        run: yarn auto
-
       - name: Build
         run: yarn build
 
