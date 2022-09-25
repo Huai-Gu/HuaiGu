@@ -3,7 +3,7 @@ const sidebarConfig = require('./sidebar.config.json')
 module.exports = {
     title:'怀谷',
     description: 'vue react leetcode angular',
-    // base: '/dist/',
+    base: '/dist/',
     themeConfig: {
         siteTitle: "怀谷",
         // assetesPublicPath:"./",
