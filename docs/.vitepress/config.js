@@ -4,6 +4,9 @@ module.exports = {
     title:'怀谷',
     description: 'vue react leetcode angular',
     base: '/HuaiGu/',
+    head:[
+      ['link', { rel: 'icon', href: './favicon.ico' }],  
+    ],
     themeConfig: {
         siteTitle: "怀谷",
         // assetesPublicPath:"./",
