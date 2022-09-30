@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /Vue/组件通信/Api-attrs
+      link: /comments/Tomao
     - theme: alt
       text: View on Github
-      link: https://github.com/Tomaolala/HuaiGu
+      link: https://github.com/Huai-Gu/HuaiGu
 features:
   - icon: 🖖
     title: Vue/React/Angular

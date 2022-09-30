@@ -74,9 +74,9 @@ export default {
 ```
 
 ### 效果实现
-![alt](../../public/Hover.png)
+![alt](/Hover.png)
 
 ### log打印
-![alt](../../public/el-title.png)
+![alt](/el-title.png)
 
 
