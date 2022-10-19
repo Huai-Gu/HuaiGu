@@ -5,7 +5,7 @@ hero:
   text: 敦兮其若朴 旷兮其若谷
   image:
     src: /vue.png
-    alt: 图片这么不见了？？？？？？？？？？？？
+    alt: 图片怎么不见了？？？？？？？？？？？？
   actions:
     - theme: brand
       text: 快速开始
