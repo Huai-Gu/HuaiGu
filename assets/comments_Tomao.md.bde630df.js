@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app.0951d03c.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"comments/Tomao.md"}'),a={name:"comments/Tomao.md"};function r(s,c,n,m,p,_){return o(),t("div")}const f=e(a,[["render",r]]);export{i as __pageData,f as default};
