@@ -31,7 +31,7 @@ module.exports = {
         lastUpdated: "最近更新时间",
         socialLinks: [{
             icon: "github",
-            link: "https://github.com/Tomaolala/HuaiGu"
+            link: "https://github.com/Huai-Gu/HuaiGu"
         }, ],
         sidebar: sidebarConfig
     },
