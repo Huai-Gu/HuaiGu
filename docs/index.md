@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /comments/Tomao
+      link: /JS.TS/ES6/手写promise所有函数.html
     - theme: alt
       text: View on Github
       link: https://github.com/Huai-Gu/HuaiGu
