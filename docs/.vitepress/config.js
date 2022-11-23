@@ -17,7 +17,7 @@ module.exports = {
             if (!clipboardData) { return; }
                 
         let text = window.getSelection().toString()
-        text=text+'\\n\\n\\n\\n'+'本资源来自'+'\\n'+this.location.href
+        text=text+'\\n\\n\\n\\n'+'本资源来自'+'\\n'+"https://huai-gu.github.io/HuaiGu"
         event.clipboardData.setData('text/plain', text);
         event.preventDefault();
         })
