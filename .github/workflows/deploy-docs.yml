@@ -35,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: yarn
       - name: Bulild Bar
-          run: yarn auto
+        run: yarn auto
       - name: Build
         run: yarn build
 
