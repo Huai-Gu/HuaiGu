@@ -39,6 +39,6 @@ for(i in arr)
 ## weakMap
 
 WeakMap 对象是一组键/值对的集合，其中的键是弱引用的。其键必须是对象，而值可以是任意的。
-且weakMap 所引用的对象不计入  
+且weakMap 所引用的对象不计入  [垃圾回收](https://huai-gu.github.io/HuaiGu/JS.TS/%E5%9F%BA%E7%A1%80/%E5%9E%83%E5%9C%BE%E5%9B%9E%E6%94%B6.html)
 
 
