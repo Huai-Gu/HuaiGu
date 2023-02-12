@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.ffda2eb5.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"React/index.md"}'),n={name:"React/index.md"};function r(c,o,s,d,i,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
