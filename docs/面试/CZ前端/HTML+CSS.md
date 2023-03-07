@@ -74,7 +74,7 @@
 
 + margin纵向重叠问题
 
-  ![image-20230301172340172](C:\Users\cz\AppData\Roaming\Typora\typora-user-images\image-20230301172340172.png)
+  <!-- ![image-20230301172340172](C:\Users\cz\AppData\Roaming\Typora\typora-user-images\image-20230301172340172.png) -->
 
   + 相邻元素的margin-top和margin-bottom会发生重叠
   + 空内容的p标签也会重叠
