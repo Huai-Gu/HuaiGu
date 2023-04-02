@@ -182,3 +182,5 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+docs/.vitepress/cache/
+docs/.vitepress/dist/
