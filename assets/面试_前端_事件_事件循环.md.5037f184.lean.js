@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as o}from"./app.8440984c.js";const i=JSON.parse('{"title":"EventLoop","description":"","frontmatter":{},"headers":[],"relativePath":"面试/前端/事件/事件循环.md"}'),l={name:"面试/前端/事件/事件循环.md"},p=o("",7),e=[p];function t(c,r,F,y,D,A){return a(),n("div",null,e)}const _=s(l,[["render",t]]);export{i as __pageData,_ as default};
