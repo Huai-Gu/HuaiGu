@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.767df7fd.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JS.TS/基础/一文搞懂map函数.md"}'),r={name:"JS.TS/基础/一文搞懂map函数.md"};function o(_,s,c,n,p,m){return a(),t("div")}const f=e(r,[["render",o]]);export{i as __pageData,f as default};
