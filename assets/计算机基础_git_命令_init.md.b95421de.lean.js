@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a as i}from"./app.46505ed0.js";const u=JSON.parse('{"title":"git init","description":"","frontmatter":{},"headers":[],"relativePath":"计算机基础/git/命令/init.md"}'),n={name:"计算机基础/git/命令/init.md"},s=i("",4),o=[s];function r(c,p,l,_,d,h){return e(),a("div",null,o)}const f=t(n,[["render",r]]);export{u as __pageData,f as default};
