@@ -6,7 +6,10 @@
 
 ## [对比svn](https://zhuanlan.zhihu.com/p/48148269)
 
-》》》》》》》》》》》》》》》》
+git 是分布式的，而svn是集中式的
+
+svn 严重依赖于服务器端 挂了就啥都没了
+而git可以从另外的客户端获取所以代码
 
 ## git config
 
