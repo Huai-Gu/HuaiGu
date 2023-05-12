@@ -27,3 +27,15 @@ Host hyperchain.cn
 ```
 
 ### well have a try 
+
+
+
+## 后续---
+
+还出现问题是要去program files 文件夹去配置 ssh_config
+```bash
+Host *
+    IdentityFile ~/.ssh/id_rsa_two
+    HostkeyAlgorithms +ssh-rsa
+    PubkeyAcceptedAlgorithms +ssh-rsa
+```
