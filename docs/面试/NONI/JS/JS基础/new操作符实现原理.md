@@ -2,6 +2,7 @@
 
 ### new操作符的定义
 
+
 #### 使用示例（对象类型和对象实例）
 
 new操作符可以用来创建一个用户定义的**对象类型的实例**或**具有构造函数的内置对象的实例**。（来自MDN的定义）
@@ -22,6 +23,7 @@ console.log(test.arguments1);	//'demo1'
 console.log(test.arguments2);	//'demo2'
 
 ```
+
 
 ### 示例2（对象属性为其他对象）
 
@@ -52,6 +54,7 @@ car2.owner.name	//'Ken Jones'
 
 ### 原理阐述
 
+
 #### new关键字进行的基本操作
 
 1、生成一个空白的对象
@@ -63,6 +66,7 @@ car2.owner.name	//'Ken Jones'
 4、构造函数返回的是对象，那么最终返回构造函数执行的结果；否则返回新对象
 
 #### 手写new
+
 
 ```js
 function myNew(fn,...args) {
