@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a,a as o}from"./app.709f5fd1.js";const h=JSON.parse('{"title":"HTTP","description":"","frontmatter":{},"headers":[],"relativePath":"计算机基础/HTTP.md"}'),p={name:"计算机基础/HTTP.md"},T=o("",14),r=[T];function s(_,i,l,n,c,d){return a(),e("div",null,r)}const H=t(p,[["render",s]]);export{h as __pageData,H as default};
