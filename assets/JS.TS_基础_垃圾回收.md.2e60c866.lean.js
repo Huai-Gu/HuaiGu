@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.3e0f3fbc.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JS.TS/基础/垃圾回收.md"}'),r={name:"JS.TS/基础/垃圾回收.md"};function o(s,c,n,_,p,d){return a(),t("div")}const f=e(r,[["render",o]]);export{m as __pageData,f as default};
