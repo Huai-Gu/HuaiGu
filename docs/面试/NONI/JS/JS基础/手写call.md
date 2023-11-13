@@ -1,3 +1,10 @@
+### **call()**
+
+调用call的函数挂载到传入的第一个参数上，再通过该参数对象来调用‘调用call的函数’，并且能够得到传入其他参数后执行得到的结果
+
+例如：Fn.call(context, a,b)，函数Fn挂载到context对象上，通过context对象调用函数Fn，并且能够得到传入参数a,b后执行得到的结果
+
+### **手写**
 ```js
 Function.prototype.myCall = function (context) {
   if (context === null || context === undefined) {
@@ -53,4 +60,15 @@ fn1.myCall(1, 1, 2);
 fn1.myCall("str", 1, 2);
 fn1.myCall(true, 1, 2);
  
-  ```
+```
+
+### **简单版本**
+
+```js
+Function.prototype.myCall = function(context){
+  context.fn = this
+  context.fn();
+  delete context.fn
+}
+
+```
