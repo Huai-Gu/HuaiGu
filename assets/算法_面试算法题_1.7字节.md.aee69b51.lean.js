@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,a as l}from"./app.3e0f3fbc.js";const i=JSON.parse('{"title":"中文数字翻译成阿拉伯数字","description":"","frontmatter":{},"headers":[],"relativePath":"算法/面试算法题/1.7字节.md"}'),p={name:"算法/面试算法题/1.7字节.md"},o=l("",3),t=[o];function e(c,r,F,y,D,C){return a(),n("div",null,t)}const _=s(p,[["render",e]]);export{i as __pageData,_ as default};

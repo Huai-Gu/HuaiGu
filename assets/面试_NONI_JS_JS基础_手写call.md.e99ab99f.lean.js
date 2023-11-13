@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.ec03d301.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"面试/NONI/JS/JS基础/手写call.md"}'),p={name:"面试/NONI/JS/JS基础/手写call.md"},o=l("",1),e=[o];function t(c,F,r,y,D,C){return a(),n("div",null,e)}const f=s(p,[["render",t]]);export{i as __pageData,f as default};
