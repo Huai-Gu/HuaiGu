@@ -26,7 +26,7 @@ Function.prototype.myCall = function (context) {
   }
 
   // 生成唯一的属性名，避免与已有属性冲突
-  let key = Date.now().toString(36);
+  let key = Symbol();
   //为context创建一个临时属性，指向调用它的函数
   context[key] = this;
 
@@ -73,4 +73,19 @@ Function.prototype.myCall = function(context){
   delete context.fn
 }
 
+```
+
+### bind()
+
+```js
+Function.prototype.myBind = function(context,...args){
+  const fn = this
+  args = args ? args : []
+  return function newFn(...newArgs) {
+    if(this instanceof newFn) {
+      return new fn(...args,...newArgs)
+    }
+    return fn.apply(context,[...args,...newArgs])
+  }
+}
 ```
