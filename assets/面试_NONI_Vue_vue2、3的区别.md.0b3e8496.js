@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./app.136603a1.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"面试/NONI/Vue/vue2、3的区别.md"}'),r={name:"面试/NONI/Vue/vue2、3的区别.md"};function o(s,c,n,_,p,d){return a(),t("div")}const m=e(r,[["render",o]]);export{u as __pageData,m as default};
